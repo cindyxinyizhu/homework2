@@ -1,6 +1,7 @@
 body{
 	background-color: #000000;
 	color: #ffffff;
+	font-family: Lucida Grande, sans-serif;
 }
 
 
@@ -12,14 +13,12 @@ header{
 
 
 h1{
-	font: Lucida Grande, sans-serif;
 	font-size: 64px; 
 	text-align: center;
 }
 
 
 h2{
-	font: Lucida Grande, sans-serif;
 	font-size: 30px; 
 	text-shadow: 5px 5px 2px #808080;
 }
@@ -27,14 +26,14 @@ h2{
 
 p {
 	font-size: 24px; 
-    padding-top: 20px; 
+    	padding-top: 20px; 
 }
 
 
 img{
 	display: block;
-    width: 525px;
-    height: auto;
+    	width: 525px;
+    	height: auto;
   	margin-left: auto;
   	margin-right: auto;
 }
