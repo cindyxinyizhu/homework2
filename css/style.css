@@ -65,11 +65,16 @@ img{
 }
 
 
+#yellow h2{
+	font-size: 30px; 
+	text-shadow: 5px 5px 2px #c7e2c7;
+}
+
+
 #yellow{
 	display: block;
 	background-color: #ffff00;
 	color: #000000;
-	text-shadow: 5px 5px 2px #c7e2c7;
 	text-align: right;
 	min-height: 150px;
 	padding: 25px; 
